@@ -1,7 +1,7 @@
 # Agentic Cortex — Team Memory Repository
 
 > **Shared, machine-readable knowledge for AI coding agents.**  
-> 44 observations across 8 sources — coding standards, architecture patterns, security rules, self-improvement protocols, and battle-tested project lessons.
+> 48 observations across 11 sources — coding standards, architecture patterns, security rules, self-improvement protocols, multi-agent patterns, and battle-tested project lessons.
 
 ---
 
@@ -73,7 +73,7 @@ Example: `instruction__90000__clean-code-naming-conventions-for-ai-agents.md`
 
 ---
 
-## Observation Inventory (44 Total)
+## Observation Inventory (48 Total)
 
 ### 🏗️ Project Battle-Tested (11 observations)
 
@@ -171,4 +171,4 @@ Meta-learning patterns for how agents should learn from their mistakes and impro
 | 90028 | pattern | **Atomic Instinct Learning** — Granular instincts with confidence decay (0.3–0.95) | ECC |
 | 90029 | instruction | **Root Cause Analysis from Errors** — 5-step RCA: record, classify, drill, fix, verify | agentic-cortex |
 | 90030 | instruction | **Learning Verification & Confidence Calibration** — Reinforce +5, contradict -15, decay -2/mo | agentic-cortex |
-| 90031 | instruction | **Error Taxonomy & Targeted Recovery** — 8 error types with specific 
+| 90031 | instruction | **Error Taxonomy & Targeted Recovery** —
